@@ -3393,7 +3393,7 @@ body.ie8 .qdBoletoAlertPreLoading {
     #vtexIdContainer .modal-header span::before {
         background: url(/arquivos/logo-pizzita-branco.png) no-repeat;
         content: "";
-        width: 150px;
+        width: 290px;
         background-size: contain;
         background-position: center center;
         height: 150px;
